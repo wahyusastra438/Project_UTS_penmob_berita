@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "388593588261",
+    "project_id": "aplikasi-berita-uts-1aec8",
+    "storage_bucket": "aplikasi-berita-uts-1aec8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388593588261:android:c7a2c706a134587a3887cc",
+        "android_client_info": {
+          "package_name": "com.example.project_uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388593588261-omj9eu407kibl1jrahvjtr28e395khfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_uts",
+            "certificate_hash": "8f89277370e7b9a20e316c808a97a031a28792eb"
+          }
+        },
+        {
+          "client_id": "388593588261-qqhs45het1nsks6c0ji161s0f90ki2g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWEShkOZ13AWVFzieU5-nFHk6sl3wh1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388593588261-qqhs45het1nsks6c0ji161s0f90ki2g2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388593588261-tmvifv8s1fhksf4cocj09p37scv2638a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tugasUtsPenmob"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388593588261:android:126219772e73cf333887cc",
+        "android_client_info": {
+          "package_name": "com.example.tugas_uts_penmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388593588261-qqhs45het1nsks6c0ji161s0f90ki2g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWEShkOZ13AWVFzieU5-nFHk6sl3wh1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388593588261-qqhs45het1nsks6c0ji161s0f90ki2g2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388593588261-tmvifv8s1fhksf4cocj09p37scv2638a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tugasUtsPenmob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
