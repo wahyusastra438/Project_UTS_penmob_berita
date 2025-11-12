@@ -41,6 +41,7 @@ dependencies:
   google_sign_in: ^6.2.1
   firebase_messaging: ^16.0.4
   shared_preferences: ^2.5.3
+  introduction_screen: ^4.0.0
 
 dev_dependencies:
   flutter_test:
