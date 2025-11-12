@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:introduction_screen/introduction_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'login_screen.dart'; 
+import 'auth_wrapper.dart'; 
 
 class AppOnboardingScreen extends StatelessWidget {
   const AppOnboardingScreen({super.key});
@@ -13,7 +13,7 @@ class AppOnboardingScreen extends StatelessWidget {
     if (context.mounted) {
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => const LoginScreen()),
+        MaterialPageRoute(builder: (context) => const AuthWrapper()),
       );
     }
   }
