@@ -42,7 +42,7 @@ class AppOnboardingScreen extends StatelessWidget {
       done: const Text("Selesai", style: TextStyle(fontWeight: FontWeight.w600)),
       
       showSkipButton: true,
-      onSkip: () => _onOnboardingDone(context), // Skip juga dianggap selesai
+      onSkip: () => _onOnboardingDone(context), 
       skip: const Text("Lewati"),
 
       next: const Icon(Icons.arrow_forward),
